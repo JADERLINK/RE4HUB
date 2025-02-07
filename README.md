@@ -7,4 +7,7 @@ To ask a question, create an "Issue" in the "Issues" tab,
 <br>Please, in the other repositories, make issues only regarding the tools in question, any other questions ask here in this repository.
 <br>Attention: please avoid talking about piracy, GitHub doesn't like it.
 
+To talk to me privately send an email:
+<br>[jaderlinkproject@gmail.com](mailto:jaderlinkproject@gmail.com)
+
 **At.te: JADERLINK**
